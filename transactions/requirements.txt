@@ -1,0 +1,6 @@
+flask
+flask-restful
+pandas
+requests
+re
+nba_api
