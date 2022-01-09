@@ -132,3 +132,4 @@ dmypy.json
 transaction_scraper2.py
 .pypirc
 api.py
+tests/
